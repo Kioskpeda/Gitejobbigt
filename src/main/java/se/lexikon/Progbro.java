@@ -24,4 +24,8 @@ public class Progbro {
         flink.saveStudent(kek);
     }
 
+    public void register(){
+
+    }
+
 }
